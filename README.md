@@ -1,4 +1,4 @@
-# Workshops at the Joint Congress of Computational Intelligence
+# Workshops at the Joint Congress of Computational Intelligence, CCI 2020
 
 This repository hosts materials from two workshops held at the Joint Congress of Computational Intelligence, focusing on advanced topics in fuzzy systems and decision making with a cognitive approach.
 
