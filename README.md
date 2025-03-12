@@ -27,7 +27,7 @@ This repository hosts materials from two workshops held at the Joint Congress of
 ## Repository Structure
 
 - `Z-numbers/`: Contains materials for Workshop 1
-- `Advanced Topics in Fuzzy systems/`: Contains materials for Workshop 2
+- `CCI workshop/Advanced Topics in Fuzzy systems/`: Contains materials for Workshop 2
 - `README.md`: This file
 
 ## Contact
