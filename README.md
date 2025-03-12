@@ -26,15 +26,9 @@ This repository hosts materials from two workshops held at the Joint Congress of
 
 ## Repository Structure
 
-- `workshop1/`: Contains materials for Workshop 1
-- `workshop2/`: Contains materials for Workshop 2
+- `Z-numbers/`: Contains materials for Workshop 1
+- `Advanced Topics in Fuzzy systems/`: Contains materials for Workshop 2
 - `README.md`: This file
-
-## Additional Resources
-
-- [Link to Workshop 1 Slides](https://example.com/workshop1-slides)
-- [Link to Workshop 2 Slides](https://example.com/workshop2-slides)
-- [Code Examples](https://github.com/yourusername/workshop-code)
 
 ## Contact
 
