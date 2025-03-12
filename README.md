@@ -1,58 +1,41 @@
-<h1>JWipe - Disk Sanitization</h1>
+# Workshops at the Joint Congress of Computational Intelligence
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+This repository hosts materials from two workshops held at the Joint Congress of Computational Intelligence, focusing on advanced topics in fuzzy systems and decision making with a cognitive approach.
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+## Workshop 1: Advanced Topics in Fuzzy Systems
+
+### Z-numbers
+
+- **Prepared by:** Mr. Amir Samadi
+- **Presentation by:** Mojtaba Nourani
+- **Description:** This presentation introduced the concept of z-numbers, which extend fuzzy logic by incorporating reliability measures, and discussed their applications in decision making under uncertainty.
 
 
-<h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+## Workshop 2: Decision Making with Cognitive Approach
 
-<h2>Environments Used </h2>
+### Distributed Compensation Scheme using Takagi-Sugeno-Kang Systems
 
-- <b>Windows 10</b> (21H2)
+- **Preparation and Presentation:** Mojtaba Nourani
+- **Description:** This session explored the use of Takagi-Sugeno-Kang (TSK) fuzzy models in distributed compensation schemes, highlighting their role in multi-agent systems and decentralized control.
 
-<h2>Program walk-through:</h2>
+### Multi-criteria Fuzzy Decision Making
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+- **Prepared and Presented by:** Mojtaba Nourani
+- **Description:** This topic covered methods for making decisions involving multiple criteria under uncertainty, utilizing fuzzy logic to handle imprecise information.
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+## Repository Structure
+
+- `workshop1/`: Contains materials for Workshop 1
+- `workshop2/`: Contains materials for Workshop 2
+- `README.md`: This file
+
+## Additional Resources
+
+- [Link to Workshop 1 Slides](https://example.com/workshop1-slides)
+- [Link to Workshop 2 Slides](https://example.com/workshop2-slides)
+- [Code Examples](https://github.com/yourusername/workshop-code)
+
+## Contact
+
+For inquiries, please contact nourani@ieee.org.
